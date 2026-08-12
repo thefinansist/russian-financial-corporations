@@ -26,8 +26,8 @@ TradingView используется через внутренний endpoint с
 Требуется Python 3.9 или новее.
 
 ```bash
-git clone https://github.com/thefinansist/russian-financials-updater.git
-cd russian-financials-updater
+git clone https://github.com/thefinansist/russian-financial-corporations.git
+cd russian-financial-corporations
 python3 -m venv .venv
 source .venv/bin/activate
 python3 -m pip install -r requirements.txt
