@@ -1,0 +1,17 @@
+{
+  "Сбер": {"ticker": "SBER", "class_code": "TQBR"},
+  "ВТБ": {"ticker": "VTBR", "class_code": "TQBR"},
+  "ТКС": {"ticker": "T", "class_code": "TQBR"},
+  "БСПБ": {"ticker": "BSPB", "class_code": "TQBR"},
+  "РенСтрах": {"ticker": "RENI", "class_code": "TQBR"},
+  "МосБиржа": {"ticker": "MOEX", "class_code": "TQBR"},
+  "МКБ": {"ticker": "CBOM", "class_code": "TQBR"},
+  "Совком": {"ticker": "SVCB", "class_code": "TQBR"},
+  "Европлан": {"ticker": "LEAS", "class_code": "TQBR"},
+  "МТС-банк": {"ticker": "MBNK", "class_code": "TQBR"},
+  "Росбанк": {"ticker": "ROSB", "class_code": "TQBR"},
+  "Займер": {"ticker": "ZAYM", "class_code": "TQBR"},
+  "Кармани": {"ticker": "CARM", "class_code": "TQBR"},
+  "Сафмар": {"ticker": "SFIN", "class_code": "TQBR"},
+  "Система": {"ticker": "AFKS", "class_code": "TQBR"}
+}
